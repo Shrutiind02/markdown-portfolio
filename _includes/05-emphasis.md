@@ -1,0 +1,5 @@
+-Speaking
+-Writing
+-C and C++
+-HTML and XML
+-Endless

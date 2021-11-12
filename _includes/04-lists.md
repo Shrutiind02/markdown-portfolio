@@ -1,0 +1,6 @@
+ -Life  
+ -Happiness  
+ -Suspense  
+ -Challenges  
+ -Good food  
+ -Family 
