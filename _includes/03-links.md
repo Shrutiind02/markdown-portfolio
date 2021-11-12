@@ -1,1 +1,1 @@
-[github] (https://github.com/Shrutiind02)
+[github](https://github.com/Shrutiind02)
