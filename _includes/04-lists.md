@@ -1,2 +1,4 @@
 -Life 
 -Happiness
+-Suspense
+-Challenges
